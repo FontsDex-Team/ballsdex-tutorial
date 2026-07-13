@@ -34,7 +34,7 @@ class Tutorial(commands.Cog):
         trade_add = Trade.add.extras.get("mention", "/trade add")
         config_channel = Config.channel.extras.get("mention", "/config channel")
         embed = discord.Embed(
-            title=f"{settings.bot_name.title()} Tutorial", color=discord.Color.blurple()
+            title=f"{settings.bot_name} Tutorial", color=discord.Color.blurple()
         )
         embed.add_field(
             name="What can I do with this bot?",
