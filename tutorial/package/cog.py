@@ -30,7 +30,7 @@ class Tutorial(commands.Cog):
         """
         View a descriptive tutorial of the bot.
         """
-        trade_begin = Trade.begin.extras.get("mention", "/trade begin")
+        trade_begin = Trade.start.extras.get("mention", "/trade begin")
         trade_add = Trade.add.extras.get("mention", "/trade add")
         config_channel = Config.channel.extras.get("mention", "/config channel")
         embed = discord.Embed(
