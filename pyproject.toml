@@ -1,0 +1,14 @@
+[project]
+name = "ballsdex-tutorial"
+version = "1.0.0"
+
+description = "Tutorial package for Ballsdex 3.0"
+license = "MIT"
+authors = [
+    { name = "Seif", email = "seiftheman1@gmail.com" },
+]
+
+[project.urls]
+Repository = "https://github.com/seiftheman/ballsdex-tutorial"
+Documentation = "https://github.com/seiftheman/ballsdex-tutorial#readme"
+Issues = "https://github.com/seiftheman/ballsdex-tutorial/issues"
