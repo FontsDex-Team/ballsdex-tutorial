@@ -12,7 +12,7 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 from settings.models import settings
-from ballsdex.packages.config.cog import Config
+from ballsdex.packages.guildconfig.cog import Config
 from ballsdex.packages.trade.cog import Trade
 
 if TYPE_CHECKING:
