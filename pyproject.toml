@@ -9,6 +9,6 @@ authors = [
 ]
 
 [project.urls]
-Repository = "https://github.com/FontsDex-Team/ballsdex-tutorial"
-Documentation = "https://github.com/FontsDex-Team/ballsdex-tutorial#readme"
-Issues = "https://github.com/FontsDex-Team/ballsdex-tutorial/issues"
+Repository = "https://github.com/seiftheman/ballsdex-tutorial"
+Documentation = "https://github.com/seiftheman/ballsdex-tutorial#readme"
+Issues = "https://github.com/seiftheman/ballsdex-tutorial/issues"
